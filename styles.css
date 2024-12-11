@@ -8,10 +8,10 @@
 
 body {
 	font-family: "Krub", serif;
+	background-color: azure;
 }
 
 .post {
-	/* background-color: aqua; */
 	width: 480px;
 	margin: 50px auto;
 	border-radius: 8px;
@@ -20,7 +20,6 @@ body {
 }
 
 .row1 {
-	/* background-color: antiquewhite; */
 	height: 32px;
 	display: flex;
 	gap: 8px;
